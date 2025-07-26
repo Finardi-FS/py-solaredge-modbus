@@ -32,8 +32,8 @@ Before using this class, ensure you meet the following requirements:
 Clone this repository to your local system:
 
 ```bash
-git clone https://github.com/YourUsername/YourRepoName.git
-cd YourRepoName/solaredge_class
+git clone https://github.com/Finardi-FS/py-solaredge-modbus
+cd py-solaredge-modbus/solaredge_class
 ```
 
 
